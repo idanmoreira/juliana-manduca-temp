@@ -41,7 +41,7 @@ const Services = () => {
   return <section className="py-20 px-4 relative overflow-hidden" id="servicos">
       {/* Background */}
       <div className="absolute inset-0 bg-gradient-to-b from-[#161627] to-[#2C214A]">
-        <img src="/lovable-uploads/ef832c2a-3bf9-4df6-b8c9-9a42c0c80667.png" alt="Stone bridge" className="absolute inset-0 w-full h-full object-cover opacity-5" />
+        <img src="/lovable-uploads/ef832c2a-3bf9-4df6-b8c9-9a42c0c80667.png" alt="Stone bridge" className="absolute inset-0 w-full h-full opacity-5 object-cover" />
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto">
