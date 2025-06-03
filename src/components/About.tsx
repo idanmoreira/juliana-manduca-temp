@@ -40,10 +40,8 @@ const About = () => {
               <img alt="Juliana Manduca" className="w-full h-96 object-cover rounded-2xl mb-6" src="/lovable-uploads/75383be3-e4fa-417d-84d4-6bb7a457bdfc.jpg" />
               <div className="text-center">
                 <h3 className="text-2xl font-semibold text-white mb-2">Juliana Manduca</h3>
-                <p className="text-[#FBEBBD] mb-4">Astróloga & Consultora em Desenho Humano</p>
-                <div className="text-[#F3C63E] font-semibold">
-                  ✨ Mais de 1000 atendimentos realizados
-                </div>
+                <p className="text-[#FBEBBD] mb-4">Astróloga & Contoterapeuta</p>
+                <div className="text-[#F3C63E] font-semibold">✨ Milhares de atendimentos realizados por todo o mundo 🌎</div>
               </div>
             </div>
           </div>
