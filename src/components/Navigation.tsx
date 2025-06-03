@@ -26,9 +26,7 @@ const Navigation = () => {
               Início
             </button>
             <button onClick={() => scrollToSection('servicos')} className="text-[#FBEBBD] hover:text-[#F3C63E] transition-colors duration-300">Atendimentos</button>
-            <button onClick={() => scrollToSection('human-design')} className="text-[#FBEBBD] hover:text-[#F3C63E] transition-colors duration-300">
-              Desenho Humano
-            </button>
+            <button onClick={() => scrollToSection('human-design')} className="text-[#FBEBBD] hover:text-[#F3C63E] transition-colors duration-300">Gerar Desenho Humano</button>
             <button onClick={() => scrollToSection('sobre')} className="text-[#FBEBBD] hover:text-[#F3C63E] transition-colors duration-300">
               Sobre
             </button>
