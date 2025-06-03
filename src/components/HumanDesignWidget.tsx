@@ -24,12 +24,12 @@ const HumanDesignWidget = () => {
   return <section className="py-20 px-4 relative overflow-hidden" id="human-design">
       {/* Background */}
       <div className="absolute inset-0 bg-gradient-to-b from-[#2C214A] to-[#161627]">
-        <img src="/lovable-uploads/7be71fe0-0e97-429f-929c-ab51bc8f11fd.png" alt="Waterfall meditation" className="absolute inset-0 w-full h-full object-cover opacity-1" />
+        <img alt="Waterfall meditation" className="absolute inset-0 w-full h-full object-cover opacity-1" src="/lovable-uploads/596d9acb-8ebc-410c-b57b-1a1eca9989b5.jpg" />
       </div>
 
       <div className="relative z-10 max-w-6xl mx-auto">
         <div className="text-center mb-12">
-          <h2 className="text-4xl md:text-5xl font-light text-white mb-6">
+          <h2 className="text-4xl text-white mb-6 font-light md:text-6xl">
             Gere seu Mapa de Desenho Humano
           </h2>
           <p className="text-xl text-[#FBEBBD] max-w-3xl mx-auto">
