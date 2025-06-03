@@ -19,7 +19,7 @@ const Navigation = () => {
   return <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? 'backdrop-blur-md bg-[#161627]/80 shadow-lg' : 'bg-transparent'}`}>
       <div className="max-w-6xl mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          <div className="text-xl font-semibold text-white">Juliana Manduca</div>
+          <div className="text-xl font-semibold text-white">@juliana.manduca</div>
           
           <div className="hidden md:flex space-x-8">
             <button onClick={() => scrollToSection('inicio')} className="text-[#FBEBBD] hover:text-[#F3C63E] transition-colors duration-300">
