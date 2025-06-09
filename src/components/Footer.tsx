@@ -25,7 +25,7 @@ const Footer = () => {
         </div>
         
         <div className="mt-8 pt-8 border-t border-white/10">
-          <p className="text-[#FBEBBD]/70 text-sm">© 2025 Juliana Manduca. Todos os direitos reservados.</p>
+          <p className="text-[#FBEBBD]/70 text-sm">© 2026 Juliana Manduca. Todos os direitos reservados.</p>
           <p className="text-[#FBEBBD]/50 text-xs mt-2">
             JULIANAMANDUCA.COM.BR
           </p>
